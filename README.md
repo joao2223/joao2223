@@ -1,4 +1,4 @@
-  <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+  <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm joao. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -15,5 +15,5 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/joao2223/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao2223&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

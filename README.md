@@ -15,5 +15,5 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joao2223&theme=dark&show_icons=true" alt="Joao github stats" /></a> | <a href="https://github.com/joao2223/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joao2223&theme=dark&show_icons=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joao2223&theme=dark&show_icons=true" alt="Joao github stats" /></a> | <a href="https://github.com/joao2223/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

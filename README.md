@@ -1,7 +1,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006e5b&height=120&section=header"/>
 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=79ff97&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+João+Victor;Tenho+23+anos;Sou+do+Brasil;Sou+um+estudante+de+Desenvolvimento+de+Software;Bem+vindo!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006e5b&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+João+Victor;Tenho+23+anos;Sou+do+Brasil;Sou+um+estudante+de+Desenvolvimento+de+Software;Bem+vindo!+:%29)](https://git.io/typing-svg)
 <br />
 
 **Sobre mim**
@@ -18,5 +18,5 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joao2223&theme=dark&show_icons=true" alt="Joao github stats" /></a> | <a href="https://github.com/joao2223/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao2223&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joao2223&show_icons=true&count_private=true&hide_border=true&title_color=006e5b&icon_color=006e5b&text_color=c9d1d9&bg_color=0d1117" alt="Joao github stats" /></a> | <a href="https://github.com/joao2223/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao2223&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |

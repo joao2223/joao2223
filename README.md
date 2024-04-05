@@ -6,7 +6,7 @@
 
 **Sobre mim**
 
-- Estudante de Física Computacional 
+- Formado Física Computacional pela USP
 
 - Participante do programa Desenvolve Boticário 2023
 
